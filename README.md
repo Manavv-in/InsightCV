@@ -78,4 +78,4 @@ The user can also see unmatched skills by clicking the `View in Detail` button.
 ![Compare Output](https://i.postimg.cc/DyxSVvZB/Screenshot-27.png)
 
 ## __author__
-Made with 🤍 by [Manav](https:www.linkedin.com/in/manav-kumarr)
+Made with 🤍 by [Manav](https://www.linkedin.com/in/manav-kumarr)
