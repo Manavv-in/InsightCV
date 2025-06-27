@@ -60,7 +60,7 @@ Also, provides a Resume score (out of 100) based on:
     - Filename structure
     - Resume length
 
-![analyse](<Screenshot (25).png>)
+![analyse](https://i.postimg.cc/W4FF6BsS/Screenshot-25.png)
 
 The user can also see the Detailed breakdown by clicking the `View Detailed Score Breakdown` button.
 
@@ -69,13 +69,13 @@ The program will prompt to upload or paste the Job Description. After uploading,
 
 `Compare with JD` function detects key skills required from the JD and compares them with the user's resume.
 
-![Compare screen](<Screenshot (26).png>)
+![Compare screen](https://i.postimg.cc/gkzxBXYx/Screenshot-26.png)
 
 It also outputs a Match score and highlights missing skills in the user's resume.
 
 The user can also see unmatched skills by clicking the `View in Detail` button.
 
-![Compare Output](<Screenshot (27).png>)
+![Compare Output](https://i.postimg.cc/DyxSVvZB/Screenshot-27.png)
 
 ## __author__
 Made with 🤍 by [Manav](www.linkedin.com/in/manav-kumarr)
