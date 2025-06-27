@@ -4,9 +4,9 @@
 ---
 
 ## __Description:__
-**InsightCV** is a simple, clean resume analyzer that helps user to analyse their Resume and compare it against a Job Description.
+**InsightCV** is a simple, clean resume analyzer that helps users analyze their Resume and compare it against a Job Description.
 
-It's built using `streamlit` and uses libraries like `pandas`, `PDFPlumber`, `spaCy`, `textstat`, etc. to extract and evaluate resumes based on readability, formatting, skills, and more.
+It's built using `streamlit` and uses libraries like `pandas`, `PDFPlumber`, `spaCy`, `textstat`, etc., to extract and evaluate resumes based on readability, formatting, skills, and more.
 
 ---
 
@@ -26,7 +26,7 @@ Clone the Repository or Download Zip:
 git clone https://github.com/
 ``` 
 ### Installation
-After downloading, Navigate to the project folder in terminal/cmd and install required libraries.
+After downloading, navigate to the project folder in the terminal/cmd and install required libraries.
 ```
 pip install -r requirements.txt
 ```
@@ -35,24 +35,24 @@ To launch the program, run `project.py` using streamlit.
 ```
 streamlit run project.py
 ```
-the program will automatically launch on the browser with **InsightCV** web app on localhost.
+The program will automatically launch on the browser with **InsightCV** web app on localhost.
 
-![Home screen](<Screenshot (24).png>)
+![Home screen](https://i.postimg.cc/wxPXCQG1/Screenshot-24.png)
 
 ### Navigating through the App
 
 #### Homepage
 
-On the home page of **InsightCV**, It will prompt to upload resume. Upload the resume in PDF format (Use the converter to convert any file into PDF, if resume not available in PDF format).
+On the home page of **InsightCV**, it will prompt to upload a resume. Upload the resume in PDF format (Use the converter to convert any file into PDF, if the resume is not available in PDF format).
 
-Then user can select from 2 options available:
+Then the user can select from the 2 options available:
 1. `Analyse`
 2. `Compare with JD`
- and click `start` to Continue.
+ And click `start` to continue.
 
 #### Analyse
-`Analyse` function detects and displays skills found in user's resume.
-Also, Provides a Resume score (out of 100) based on:
+`Analyse` function detects and displays skills found in the user's resume.
+Also, provides a Resume score (out of 100) based on:
     - Skills match
     - Action verbs
     - Readability
@@ -62,18 +62,18 @@ Also, Provides a Resume score (out of 100) based on:
 
 ![analyse](<Screenshot (25).png>)
 
-User can also see the Detailed breakdown by clicking the `View Detailed Score Breakdown` button.
+The user can also see the Detailed breakdown by clicking the `View Detailed Score Breakdown` button.
 
 #### Compare with JD
-The program will prompt to upload or paste Job Description. After Uploading click `Continue` to start.
+The program will prompt to upload or paste the Job Description. After uploading, click `Continue` to start.
 
-`Compare with JD` function detects key skills required from the JD and compares them with user's resume.
+`Compare with JD` function detects key skills required from the JD and compares them with the user's resume.
 
 ![Compare screen](<Screenshot (26).png>)
 
-It also Outputs a Match score and Highlights missing skills in user's resume.
+It also outputs a Match score and highlights missing skills in the user's resume.
 
-User can also see unmatched skills by clicking the `View in Detail` button.
+The user can also see unmatched skills by clicking the `View in Detail` button.
 
 ![Compare Output](<Screenshot (27).png>)
 
