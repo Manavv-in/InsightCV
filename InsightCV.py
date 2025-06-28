@@ -205,7 +205,7 @@ def main():
                     else:
                         match_score= 0
                         st.write(f"skills matched: {len(matched_skills)}/{len(jd_skills)}")
-                    st.metric("Match score", f"{match_score}/100")
+                    st.metric("Match score", f"{match_score}%")
                     with st.expander("View in Detail"):
                         if missing_skills:
                             st.markdown("**Missing skills in Resume:**")
