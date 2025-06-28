@@ -30,9 +30,9 @@ After downloading, navigate to the project folder in the terminal/cmd and instal
 pip install -r requirements.txt
 ```
 ### Usage
-To launch the program, run `project.py` using streamlit.
+To launch the program, run `InsightCV.py` using streamlit.
 ```
-streamlit run project.py
+streamlit run InsightCV.py
 ```
 The program will automatically launch on the browser with **InsightCV** web app on localhost.
 
