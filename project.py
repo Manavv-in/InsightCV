@@ -96,7 +96,6 @@ def main():
         """
         <div style='display: flex; justify-content: space-between; align-items: center;'>
             <div style='display: flex; align-items: center;'>
-                <img src='https://i.postimg.cc/wB211YLM/Untitled-design.png' width='32' style='margin-right: 10px;'/>
                 <h2 style='margin-bottom: 0;'>InsightCV</h2>
             </div>
             <span style='font-size: 0.9em;'>
