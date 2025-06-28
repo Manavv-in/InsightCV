@@ -22,7 +22,7 @@ It's built using `streamlit` and uses libraries like `pandas`, `PDFPlumber`, `sp
 ### Download
 Clone the Repository or Download Zip:
 ```
-git clone https://github.com/
+git clone https://github.com/Manavv-in/InsightCV.git
 ``` 
 ### Installation
 After downloading, navigate to the project folder in the terminal/cmd and install required libraries.
