@@ -1,5 +1,4 @@
-# __InsightCV__
-#### Video Demo:  <URL HERE>
+# InsightCV
 
 ---
 
